@@ -15,3 +15,17 @@ Hi, I'm **Vanisha Tiwari** 👋
 💡 Always eager to learn new technologies and grow as a developer
 
 🤝 Open to collaboration, learning opportunities, and open-source contributions
+
+
+## 🛠 Tech Stack
+Java • HTML • CSS • JavaScript • Git • GitHub • VS Code
+
+## 🌱 Currently Learning
+- Data Structures & Algorithms
+- Web Development
+- Java
+
+## 🎯 Goals
+- Build real-world projects
+- Improve problem-solving skills
+- Prepare for internships and placements
